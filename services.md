@@ -97,5 +97,5 @@ spec:
 **Apply the file**
 
 ```bash
-kubectl apply -f LoadBalancer.yaml
+kubectl apply -f ExternalName.yaml
 ``` 
